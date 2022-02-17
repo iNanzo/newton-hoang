@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/NMH-React_Portfolio/static/css/main.bdc91608.css",
+    "main.js": "/NMH-React_Portfolio/static/js/main.647afdbe.js",
+    "static/media/Project4.png": "/NMH-React_Portfolio/static/media/Project4.2dc6120e74d744603f97.png",
+    "static/media/Project1.png": "/NMH-React_Portfolio/static/media/Project1.1a57a785216d228e86b6.png",
+    "static/media/newton.jpg": "/NMH-React_Portfolio/static/media/newton.03a50e55ec719294b131.jpg",
+    "static/media/Newton Hoang Resume.pdf": "/NMH-React_Portfolio/static/media/Newton Hoang Resume.a86d385045933f27f934.pdf",
+    "static/media/Project2.PNG": "/NMH-React_Portfolio/static/media/Project2.901af9f6d7a2aa52bc24.PNG",
+    "static/media/NoteTaker.png": "/NMH-React_Portfolio/static/media/NoteTaker.e3c7d73d8e88fd641f07.png",
+    "static/media/Project5.png": "/NMH-React_Portfolio/static/media/Project5.38ed170dfb39af31c912.png",
+    "static/media/Project3.PNG": "/NMH-React_Portfolio/static/media/Project3.c872e7ebb89de7fd7e79.PNG",
+    "index.html": "/NMH-React_Portfolio/index.html",
+    "main.bdc91608.css.map": "/NMH-React_Portfolio/static/css/main.bdc91608.css.map",
+    "main.647afdbe.js.map": "/NMH-React_Portfolio/static/js/main.647afdbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdc91608.css",
+    "static/js/main.647afdbe.js"
+  ]
+}
