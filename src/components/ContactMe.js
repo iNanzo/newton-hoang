@@ -10,13 +10,21 @@ function Contact() {
         var inputValue = target.value;
     
         if(inputType === "email") {
-          newEmail(inputValue);
-          if (!validateEmail(email)) {
-            newError("Please enter a valid E-mail address");
-          } else {
-            newError("");
-          }
-      }
+            var { target } = form;
+            var inputType = target.name;
+            var inputValue = target.value;
+        
+            if(inputType === "email") {
+                newEmail(inputValue);
+    
+                if(!validateEmail(email)) {
+                    newError("Please enter a valid E-mail address");
+                } 
+                else {
+                    newError("");
+                }
+            }
+        }
     };
 
     return (
